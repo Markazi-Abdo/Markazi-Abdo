@@ -10,4 +10,6 @@ For contacts:
 
 LinkedIn: www.linkedin.com/in/abdellatif-markazi-ba9265341
 
+Gmail: markaziabdellatif@gmail.com
+
 X : ${tifoo_mrk}
